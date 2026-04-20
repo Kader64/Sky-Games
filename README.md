@@ -1,24 +1,26 @@
-# 🎮 Sky Games
+# Sky Games
 
 **Sky Games** to strona internetowa zawierająca zbiór prostych gier przeglądarkowych napisanych w JavaScript z wykorzystaniem elementu **HTML5 Canvas**.  
 Projekt umożliwia użytkownikom rejestrację, logowanie, ocenianie gier oraz zapisywanie ich do ulubionych.
 
+Sky Games stanowi dla autora pierwszy pełnoprawny projekt typu **full-stack**, obejmujący zarówno frontend, backend, jak i bazę danych.
+
 ---
 
-## 🌐 Opis projektu
+## Opis projektu
 
 Sky Games to platforma z mini-grami online, które działają bezpośrednio w przeglądarce – bez konieczności instalacji.  
 Strona została zaprojektowana w bajkowym stylu. Zawiera ona podział na kategorie:
 
-- 🔥 Najnowsze gry  
-- ⭐ Najlepiej oceniane  
-- 🎲 Wszystkie gry  
+- Najnowsze gry  
+- Najlepiej oceniane  
+- Wszystkie gry  
 
 Każda gra posiada własną podstronę oraz system ocen.
 
 ---
 
-## 📸 Podgląd projektu
+## Podgląd projektu
 
 <div align="center">
 
@@ -40,7 +42,7 @@ Każda gra posiada własną podstronę oraz system ocen.
 
 ---
 
-## 🕹️ Dostępne gry
+## Dostępne gry
 
 Przykładowe gry dostępne w serwisie:
 - 2048  
@@ -54,21 +56,21 @@ Wszystkie gry zostały zaimplementowane w **JavaScript** przy użyciu **Canvas**
 
 ---
 
-## 👤 System użytkowników
+## System użytkowników
 
 Strona posiada pełny system autoryzacji:
 
-- ✅ Rejestracja użytkownika  
-- ✅ Logowanie i wylogowanie  
-- ✅ Zarządzanie sesją użytkownika  
-- ✅ Zapisywanie gier do ulubionych  
-- ✅ System oceniania gier (rating)  
+- Rejestracja użytkownika  
+- Logowanie i wylogowanie  
+- Zarządzanie sesją użytkownika  
+- Zapisywanie gier do ulubionych  
+- System oceniania gier (rating)  
 
 Dane użytkowników, oceny oraz lista ulubionych gier są przechowywane w bazie danych.
 
 ---
 
-## 🛠️ Użyte technologie
+## Użyte technologie
 
 <div align="center">
 
@@ -110,7 +112,7 @@ Dane użytkowników, oceny oraz lista ulubionych gier są przechowywane w bazie 
 
 ---
 
-## 🗄️ Baza danych
+## Baza danych
 
 Projekt wykorzystuje relacyjną bazę danych SQL do przechowywania:
 
